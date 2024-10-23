@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 14.0.2, 2024-10-23T17:44:29. -->
+<!-- Written by QtCreator 14.0.2, 2024-10-23T18:03:53. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -246,10 +246,11 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/NG_2024_Nikita_Dudnik/NG_2024_Nikita_Dudnik.pro</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/NG_2024_Nikita_Dudnik/NG_2024_Nikita_Dudnik.pro</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/NG_2024_Nikita_Dudnik/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
